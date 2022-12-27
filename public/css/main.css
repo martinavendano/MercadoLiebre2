@@ -1,0 +1,23 @@
+
+main .banner{
+    display: none;
+}/* corregir posicion */
+main section article{
+    margin:20px 0;
+    position: relative;;
+}
+main section .producto{
+    width: 100%;
+}
+main p.precio{
+font-size: 18px;
+font-family: var(--FuentePrincipal);
+}
+main p.descuento{
+    font-size: 16px;
+    font-family: var(--FuentePrincipal);
+}
+main p.descripcion{
+    font-size: 16px;
+    font-family: var(--FuentePrincipal);
+}
